@@ -1,0 +1,23 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "deployedAt": "2025-10-06T18:33:53.683Z",
+  "deployer": "0xFcE321EA78A7b82C4791Ce4Ad0cF4359e016DbA8",
+  "contracts": {
+    "BPIToken": "0x4AE4D3Dd8De7F86F29B4f0f9eA808d07fd000e51",
+    "BPIRegistry": "0xbfE4A93fC6ac3D63501775A4B552f1AC349B5c2B",
+    "BPIPayments": "0xaf75820B5ac29DA6360569C976F6133E353Dc610"
+  },
+  "demoUsers": [
+    {
+      "handle": "alice@alpha",
+      "address": "0x35b8372D1671a33508cF9bFf5C1B528B76c89769",
+      "privateKey": "0x0360bb51bdb744f5f1453bc090c4d98d96f37a0bcf871c88fc61fbad63c576bf"
+    },
+    {
+      "handle": "bob@beta",
+      "address": "0x7350DdBac657ab903514bB39f00a7ba2382a0554",
+      "privateKey": "0x807c557e32b8fb972b10f98bd9de7b43c43e502a47fc5f71e9097807fe7b8176"
+    }
+  ]
+}
